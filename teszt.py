@@ -1,1 +1,1 @@
-print("\n""teszt")
+print("\n""teszt"asdasd)
