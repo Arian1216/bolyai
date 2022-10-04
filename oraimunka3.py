@@ -20,7 +20,9 @@ jovedelem = int(input("Fizetés:"))
 
 if jovedelem <= 14400:
     print("Nem kell adót fizetni")
-elif jovedelem >= 14400 and jovedelem >= 34000:
+elif jovedelem >= 14400 or jovedelem <= 34000:
     print("19% adót kell fizetni, azaz",round((jovedelem*0.19),0))
 elif jovedelem > 34000:
     print("29% adó, azaz",round((jovedelem*0.29),0))
+
+#harmadik feladat
