@@ -31,3 +31,17 @@ text = "txt"
 while text != "alma":
     text = input("Adjon meg egy szót: ")
 print("Vége")
+
+print(30*"-")
+print("2. feladat")
+
+n = int(input("Adjon meg egy számot: "))
+m = int(input("Adjon meg még egy számot: "))
+for n in range(n, m):
+    if n % 2 == 0:
+        print(n)
+
+print(30*"-")
+print("3. feladat")
+
+x = int(input("Adja meg a faktoriálist: "))
