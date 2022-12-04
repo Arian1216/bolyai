@@ -53,14 +53,6 @@ for x in lista:
 	add = add / avg
 print(f"8. feladat: {add}") 
 
-lista_x = []
-for x in range(len(lista)):
-	if lista:
-		lista.sort()
-		lista.append(lista_x)
-		lista[x] + 1 == 0
-print(lista_x)
-
 oszto_17 = []
 for i in range(len(lista)):
 	if lista[i] % 17 == 0:
