@@ -1,4 +1,3 @@
-
 tizes = int(input("Kérem adjon meg egy számot (0-255): "))
 kettes = ""
 
