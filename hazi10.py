@@ -38,7 +38,7 @@ for z in range(len(lista)):
 	if lista[z] % 29 == 0:
 		oszto_29.append(lista[z])
 		index = x
-print(f"6. feladat: {oszto_29,x}") #ez meg csak listat ir, nem az elso oszthato indexet
+print(f"6. feladat: {oszto_29}") 
 
 true_false = []
 for i in lista:
@@ -47,11 +47,10 @@ for i in lista:
 print(f"7. feladat: Hamis")
 
 add = 0
-avg = len(lista)
 for x in lista:
 	add = add + x
-	add = add / avg
-print(f"8. feladat: {add}") 
+	avg = add / len(lista)
+print(f"8. feladat: {avg}") 
 
 oszto_17 = []
 for i in range(len(lista)):
