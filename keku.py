@@ -6,18 +6,11 @@ for elem in lista:
         ertek += 1
 print(f"1. feladat: {ertek}")
 
-negativ = len(lista)
-negativertek = -14
-i = 0
-while lista[i] != negativertek:
-    i += 1
-print("2. feladat: Van")
-
 paros = []
 for i in range(len(lista)):
     if lista[i] % 2 == 0:
         paros.append(lista[i])
-print(f"3. feladat: {paros}")
+print(f"3.feladat: {paros}")
 
 maxElem = lista[0]
 for i in range(1,len(lista)):
@@ -30,12 +23,10 @@ oszto = []
 for i in range(len(lista)):
     if lista[i] % 10 == 0:
         oszto.append(lista[i])
-print(f"5. feladat: {oszto}") # f string -> f"..{..}"
+print(f"5.feladat: {oszto}") # f string -> f"..{..}"
 
-huszonkilenc = []
+oszto29 = []
 for i in range(len(lista)):
     if lista[i] % 29 == 0:
-        print(huszonkilenc)
-print(f"6. feladat: {i}")
-
-
+        oszto.append(lista[i])
+print(f"5.feladat: {oszto29}")
