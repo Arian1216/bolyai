@@ -13,7 +13,8 @@ for i in range(len(mondat)):
 print()
 
 def paros(num):
-    paros = False
+    paros = 1
     if num % 2 == 0:
-        paros = True
+        paros = 0
     return paros
+
