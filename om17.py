@@ -3,7 +3,7 @@ def paros(num):
     if num % 2 == 0:
         txt = "paros"
     return txt
-def addf(add):
+def addf(_a,_b):
 
 
 i = 1
