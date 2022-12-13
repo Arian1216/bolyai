@@ -3,7 +3,6 @@ def paros(num):
     if num % 2 == 0:
         txt = "paros"
     return txt
-def addf(_a,_b):
 
 
 i = 1
@@ -18,3 +17,5 @@ while i != 0:
 print("Osszeg: ", add)
 
 #------------------------------------
+#lecke 3. feladat
+#kedd doga?
