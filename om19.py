@@ -16,4 +16,3 @@ def fakt(x,):
 muvelet = input("adja meg a muveletet: ")
 sym = ["+","-","*",":","^","!"]
 for i in range(len(muvelet)):
-    
