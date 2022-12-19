@@ -1,6 +1,8 @@
-lista = [1, 10, 23, 2, 21, 234]
+s = "93011NULL                5011005874          A0000000000010000000000001JKL00000000NULL                                              00000000A63"
 
-for i in range(len(lista)):
-    lista.sort(lista[i])
+d = [5,20,20,1,16,9,3,8,50,8,1,2]
 
-print(sort)
+start = 0
+for x in d:
+    print(s[start:x])
+    start += x
