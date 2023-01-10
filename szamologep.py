@@ -16,19 +16,19 @@ jelek = ["+","-","*",":","^"]
 elso = input("Elso tag: ")
 masodik = input("Masodik tag: ")
 
-if jel == "+":
+if jelek == "+":
     print(elso,"+",masodik,"=", osszead(elso,masodik))
 
-elif jel == "-":
+elif jelek == "-":
     print(elso,"-",masodik,"=", kivon(elso,masodik))
 
-elif jel == "*":
+elif jelek == "*":
     print(elso,"*",masodik,"=", szorzas(elso,masodik))
 
-elif jel == ":":
+elif jelek == ":":
     print(elso,":",masodik,"=", osztas(elso,masodik))
 
-elif jel == "^":
+elif jelek == "^":
     print(elso,"^",masodik,"=", negyzet(elso,masodik))
 
 #otletem sincs innen hogyan tovabb
