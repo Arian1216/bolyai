@@ -17,12 +17,12 @@ print("Keresett szam: ",eredmeny)
 
 # 2. feladat
 
-def mysplit(strng):
-    lista = []
-    lista = ""
+#def mysplit(strng):
+   # lista = []
+  #  lista = ""
 
-print(mysplit("To be or not to be, that is the question"))
-print(mysplit("To be or not to be,that is the question"))
-print(mysplit("   "))
-print(mysplit(" abc "))
-print(mysplit("")
+#print(mysplit("To be or not to be, that is the question"))
+#print(mysplit("To be or not to be,that is the question"))
+#print(mysplit("   "))
+#print(mysplit(" abc "))
+#print(mysplit("")
