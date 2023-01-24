@@ -25,3 +25,8 @@ def split(string, delimiter):
 if __name__ == '__main__':
     print(split("abc def xyz", " "))
     print(split("abc", " "))
+
+    kulcsok = ember.keys()
+    ertekek = ember.values()
+    print(kulcsok)
+    print(ertekek)
