@@ -1,35 +1,39 @@
-def osszead(x,y):
-    return x + y
-def kivon(x,y):
-    return x - y
-def szorzas(x,y):
-    return x * y
-def osztas(x,y):
-    if x or y == 0:
-        print("Nem jo a 0.")
-    return x / y
-def negyzet(x,y):
-    return x ** y
+def add(a, b):
+  return a + b
 
-jelek = ["+","-","*",":","^"]
+def subtract(a, b):
+  return a - b
 
-elso = input("Elso tag: ")
-masodik = input("Masodik tag: ")
+def multiply(a, b):
+  return a * b
 
-if jel == "+":
-    print(elso,"+",masodik,"=", osszead(elso,masodik))
+def divide(a, b):
+  return a / b
 
-elif jel == "-":
-    print(elso,"-",masodik,"=", kivon(elso,masodik))
+def calculator(expression):
+  # Split the input into two operands and an operator
+  operand1, operator, operand2 = expression.split()
+  
+  # Convert the operands to floats
+  operand1 = float(operand1)
+  operand2 = float(operand2)
+  
+  # Call the appropriate function based on the operator
+  if operator == '+':
+    result = add(operand1, operand2)
+  elif operator == '-':
+    result = subtract(operand1, operand2)
+  elif operator == '*':
+    result = multiply(operand1, operand2)
+  elif operator == '/':
+    result = divide(operand1, operand2)
+  
+  # Return the result
+  return result
 
-elif jel == "*":
-    print(elso,"*",masodik,"=", szorzas(elso,masodik))
+# Get input from the user
+expression = input('Enter a mathematical expression: ')
 
-elif jel == ":":
-    print(elso,":",masodik,"=", osztas(elso,masodik))
-
-elif jel == "^":
-    print(elso,"^",masodik,"=", negyzet(elso,masodik))
-
-#otletem sincs innen hogyan tovabb
-#ill. az egyszerre bekeres lehetetlennek tunik :(
+# Call the calculator function and print the result
+result = calculator(expression)
+print(result)
