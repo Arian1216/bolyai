@@ -1,8 +1,11 @@
 osztaly = {}
+
 def avg(m,ma,a,t,i):
     x = m+ma+a+t+i
     return float(x/5)
+
 _nev = ""
+
 while _nev != " ":
     _nev = input("Adje meg a nevét: ")
     if _nev == "":
