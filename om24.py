@@ -22,5 +22,6 @@ while _nev != " ":
     osztaly[_nev]["Töri"] = _tori
     osztaly[_nev]["Info"] = _info
     osztaly[_nev]["Átlag"] = avg(_magyar,_matek,_angol,_tori,_info)
-    print(osztaly)
+for nev,tantargy in osztaly.items():
+    print(f"{nev}:{tantargy}")
 
