@@ -17,4 +17,4 @@ _Informatika = input("Adja meg a Informatika jegyét: ")
 
 for nev, tantargy in osztaly.items():
     for tantargy, jegy in tantargy.items():
-        print(tan)
+        print(tan)  
