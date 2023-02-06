@@ -9,6 +9,8 @@ def multiply(a, b):
 
 def divide(a, b):
   return a / b
+if jelek == "+":
+    print(elso,"+",masodik,"=", osszead(elso,masodik))
 
 def calculator(expression):
   # Split the input into two operands and an operator
@@ -30,9 +32,19 @@ def calculator(expression):
   
   # Return the result
   return result
+elif jelek == "-":
+    print(elso,"-",masodik,"=", kivon(elso,masodik))
+
+elif jelek == "*":
+    print(elso,"*",masodik,"=", szorzas(elso,masodik))
+
+elif jelek == ":":
+    print(elso,":",masodik,"=", osztas(elso,masodik))
 
 # Get input from the user
 expression = input('Enter a mathematical expression: ')
+elif jelek == "^":
+    print(elso,"^",masodik,"=", negyzet(elso,masodik))
 
 # Call the calculator function and print the result
 result = calculator(expression)

@@ -20,7 +20,7 @@ be = str(input("szó: "))
 for i in range(len(be)):
     print(be[i],end=" ")
 print()
-for i in range(1,len(be),2):
-    print(be[i])
-for i in range(len(be)):
-    print(ord(be[i]))
+#for i in range(1,len(be),2):
+ #   print(be[i])
+#for i in range(len(be)):
+  #  print(ord(be[i]))
