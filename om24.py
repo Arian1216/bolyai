@@ -25,3 +25,6 @@ while _nev != " ":
 for nev,tantargy in osztaly.items():
     print(f"{nev}:{tantargy}")
 
+for nev, tantargy in osztaly.items():
+    for tantargy, jegy in tantargy.items():
+        print(tan)  
