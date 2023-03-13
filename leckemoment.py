@@ -10,4 +10,4 @@ with open('parduc_2.feladat.txt', 'r', encoding='utf-8') as source:
         if mgh in 'aeiouáéíóöőúüűAEIOUÁÉÍÓÖŐÚÜŰ':
             sum += 1
 print(vers,'\n')
-print('A vers',letters,'betűt és',words,'szót és',sum,'magánhangzót.')
+print('A vers',letters,'betűt és',words,'szót és',sum,'magánhangzót tartalmaz.')
