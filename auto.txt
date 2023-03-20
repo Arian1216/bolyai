@@ -1,0 +1,52 @@
+﻿rendszam	tulajdonos	cim	marka	tipus	szin	motorcm3	forgalomba	megjegyzes	katalizator
+AAR327	Balogh Gyula	2600 Vác Szent Imre u. 3.	Opel	Corsa	fehér	1100	1999.03.06 0:00		1
+ABC153	Kiss Pál	1231 Budapest Szép u. 8.	Lada	Samara	fehér	1300	1990.05.08 0:00		0
+ADG987	Szép István	6200 Kiskőrös Patak u. 9.	Renault	Meganne	zöld	1400	1996.12.20 0:00		1
+AHK321	Czikk Imre	1062 Budapest Teréz krt.164.	Suzuki	Maruti	fehér	900	1999.07.12 0:00		1
+BBD945	Sápi Aladár	8360 Keszthely Deák út 10.	Suzuki	Swift	kék	1200	1996.08.05 0:00		1
+BDY344	Kiss Margit	1203 Budapest Ady Endre út 106.	Opel	Omega	fekete	2000	1994.10.14 0:00		1
+BFG912	Darab Béla	1213 Budapest Keleti u.14.	Trabant	601	szürke	800	1996.12.04 0:00		0
+CGN349	Orosházy Tamás	1051 Budapest Semmelweis u. 5.	Fiat	Brava	piros	1600	1995.07.11 0:00		1
+CGU098	Rab Zsolt	1024 Budapest Csatár u. 8.	Mercedes	320SE	fehér	2000	1988.07.19 0:00	körözés alatt	1
+CNH875	Fáy Tibor	2030 Budaörs Csap u. 34.	Citroen	Saxo	kék	1100	1995.07.29 0:00		1
+DRT429	Láng András	1058 Budapest Petőfi Sándor u. 28.	Opel	Corsa	lila	1100	1995.12.24 0:00		1
+DTC239	Vass Gábor	1141 Budapest Fogarasi út 84.	Ford	Escort	fehér	1500	1994.08.12 0:00		1
+EVK483	Kiss Tamás	9023 Győr Bécsi u. 145.	Ford	Orion	zöld	1000	1999.04.06 0:00		1
+EYU482	Kis László	2220 Vecsés Szív u. 65.	Suzuki	Swift	zöld	1300	1999.10.16 0:00		1
+FAB793	Nagy Éva	2117 Isaszeg Fehérvári út. 124. III/2.	Lada	2107	kék	1500	1988.06.22 0:00		0
+GCK346	Som Attila	8229 Csopak Victor Hugo u.123.	Daewoo	Lanos	sötétkék	1400	1998.02.15 0:00		1
+GRK854	Csorba Antal	1038 Budapest Flórián tér 16.	Lada	2105	krém	1300	1999.11.11 0:00	sérült	1
+GTD903	Somos Róbert	7400 Kaposvár Petőfi S. u.17.	Opel	Astra	kék	1400	1995.12.20 0:00		1
+HTF723	Kiss Magda	1058 Budapest Múzeum krt. 11.	VW	Polo Classic	narancs	1500	1997.02.08 0:00		0
+IBC942	Sas Endre	7400 Kaposvár Vámház u. 46.	Lada	2107	narancssárga	1600	1988.11.12 0:00		0
+IHK678	Hámori Barna	1064 Budapest Cirmos sétány 3. I.12.	Suzuki	Swift	zöld	1100	1998.03.18 0:00		1
+JBF018	Gál Péter	1113 Budapest Boldizsár u. 45.	Mitsubishi	Pajero	zöld	2500	1998.12.07 0:00		1
+JJY428	Gyáli Zoltán	1024 Budapest Törökvész u.13	Volvo	S40	ezüst	2500	1998.05.07 0:00		1
+KBI643	Gábor Sándor	8230 Balatonfüred Erzsébet tér 6.	Opel	Corsa	kék	1100	1993.06.09 0:00		1
+KDR231	Gál Jolán	1111 Budapest Hordó u. 39.	Mazda	323	piros	1000	1995.05.11 0:00		1
+KKY287	Szabó Dávid	1218 Budapest Szatmár u. 4.	Fiat	Cinquecento	sárga	800	1996.11.13 0:00		1
+KPT658	Pipás Tamás	8000 Székesfehérvár Petőfi S. u. 42.	Toyota	Corolla	piros	1400	1998.04.17 0:00		1
+LGS125	Kiss Tamás	1058 Budapest Múzeum krt. 11.	Seat	Cordoba	kék	1400	1995.07.15 0:00		1
+LGT667	Gál Lóránt	7600 Pécs Völgy út 135.	Peugeot	405	bordó	1500	1998.02.11 0:00		1
+LRP326	Szabó Dávid	1174 Budapest Vámház tér 4.	Suzuki	Baleno	piros	1200	1995.06.18 0:00		1
+MHJ439	Zsák Ernő	1158 Budapest Jókai út 34.	Lancia	Delta	ezüst	1600	1993.11.15 0:00		0
+MSH342	Nagy Ibolya	6800 Hódmezővásárhely Fő u.12.	Ford	Fiesta	piros	1200	1994.10.05 0:00		1
+NFG628	Kiss Katalin	1102 Budapest Kőrösi Cs. u. 5.	Honda	Civic	bordó	1300	1998.05.06 0:00		1
+NTU467	Tokodi József	1047 Budapest Harangvirág u. 8.	Tavria	1200	krém	1200	1993.04.07 0:00		0
+OFR908	Kardos Ágnes	2000 Szentendre Állomás u. 8.	Suzuki	Sedan	piros	1600	1998.09.12 0:00		1
+OGG639	Nagy Károly	1075 Budapest Rákóczi út 7. IV/12.	Polski Fiat	500	sárga	800	1980.10.25 0:00		0
+PDR278	Istenhegyi Károly	1202 Budapest Szent Imre tér 5.	Toyota	Corolla	fekete	1500	1998.11.07 0:00		1
+PMM087	Bakó Sándor	1213 Budapest Sav u. 4.	Renault	Twingo	sárga	900	1998.04.06 0:00		1
+QMM386	Elek Tivadar	1048 Budapest Vas Gereben u. 8.	Opel	Astra	fehér	1600	1996.05.07 0:00		1
+RDB921	Kovács Barbara	1072 Budapest Dohány u. 37.	Opel	Astra	piros	1300	1996.10.24 0:00		1
+RRA497	Ákos Erzsébet	2000 Szentendre Megyeri út 67.	VW	Bogár	fekete	1300	1992.08.29 0:00		0
+RRT153	Balogh Antónia	1073 Budapest Patak u. 9.	Lada	2105	okkersárga	1300	1998.04.16 0:00		0
+SYE132	Kocsis Attila	1222 Budapest Háros u. 32.	Fiat	Punto	zöld	1100	1997.12.08 0:00	körözés alatt	1
+TAT375	Szlávik János	1136 Budapest visegrádi u. 78.	Ford	Fiesta	fehér	1100	1993.09.16 0:00		0
+UEN231	Kovács Tamás	2475 Kápolnásnyék Árpád út 22.	Ford	Orion	sötétkék	1600	1995.04.21 0:00		1
+VHT517	Joó Sándor	1027 Budapest Keleti Károly u. 49.	Peugeot	306	kék	1500	1997.05.27 0:00	sérült	1
+WRE425	Kovács István	4080 Debrecen Virág u. 7.	Audi	A6	fekete	2100	2000.01.21 0:00		1
+XGT604	Németh Roland	1063 Budapest Munkácsy Mihály u.11.	BMW	625	sötétzöld	2500	1997.06.28 0:00		1
+YGT632	Tóth Árpád	1213 Budapest Fő tér 12.	Trabant	601	barna	800	1978.11.08 0:00	lejárt forgalmi	0
+ZHK122	Cipó Béla	2660 Balassagyarmat Sáfrány u. 21.	Suzuki	Swift	lila	1300	1996.04.23 0:00		1
+ZRT856	Márton András	2030 Budaörs Bogár u. 3	VW	Golf	szürke	1400	1992.03.18 0:00		0

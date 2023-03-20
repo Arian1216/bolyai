@@ -43,3 +43,7 @@ fourth_shortest = letters[3] # ezt nem nagyon ertem, nem en csinaltam
 print(sum,'Alapítója van az EU-nak.')
 print('B-s fővárosok: ',capital)
 print(fourth_shortest)
+
+
+
+
