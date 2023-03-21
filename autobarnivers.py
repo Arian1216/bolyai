@@ -1,6 +1,6 @@
 with open('auto.txt', 'r', encoding="utf-8") as f:
-    header = f.readline().strip().split(';')
-    data = [line.strip().split(';') for line in f]
+    header = f.readline().strip().split()
+    data = [line.strip().split() for line in f]
 # 1. Van-e olyan tulajdonos, akinek több autója van?
 tulajdonos_dict = {}
 for line in data:
