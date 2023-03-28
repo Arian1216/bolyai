@@ -11,7 +11,6 @@
 #             image = f.read(size)
 
 
-
 with open('programnyelv_1feladat.txt','r',encoding='utf-8') as f:
     f.readline()
     f.readline()
@@ -20,3 +19,4 @@ with open('programnyelv_1feladat.txt','r',encoding='utf-8') as f:
             _l = l.strip().split(';')
             _f.writelines(_l[0]+';'+_l[1]+'\n')
             # print(_l[0]+';'+_l[1],file=_f) vagy ez printtel :))))))))))
+    # with open('rendezes_evszam.txt', 'w', encoding='utf-8') as _f:
