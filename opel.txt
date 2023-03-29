@@ -1,0 +1,9 @@
+﻿rendszam	tulajdonos	cim	marka	tipus	szin	motorcm3	forgalomba	megjegyzes	katalizator
+
+AAR327	Balogh Gyula	2600 Vác Szent Imre u. 3.	Opel	Corsa	fehér	1100	1999.03.06 0:00		1
+BDY344	Kiss Margit	1203 Budapest Ady Endre út 106.	Opel	Omega	fekete	2000	1994.10.14 0:00		1
+DRT429	Láng András	1058 Budapest Petőfi Sándor u. 28.	Opel	Corsa	lila	1100	1995.12.24 0:00		1
+GTD903	Somos Róbert	7400 Kaposvár Petőfi S. u.17.	Opel	Astra	kék	1400	1995.12.20 0:00		1
+KBI643	Gábor Sándor	8230 Balatonfüred Erzsébet tér 6.	Opel	Corsa	kék	1100	1993.06.09 0:00		1
+QMM386	Elek Tivadar	1048 Budapest Vas Gereben u. 8.	Opel	Astra	fehér	1600	1996.05.07 0:00		1
+RDB921	Kovács Barbara	1072 Budapest Dohány u. 37.	Opel	Astra	piros	1300	1996.10.24 0:00		1
