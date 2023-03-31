@@ -8,7 +8,7 @@ with open('programnyelv_1feladat.txt', 'r', encoding='utf-8') as f: #1. feladat
         for year in sorted(years):
             print(year, file=c)
 
-with open('programnyelv_1feladat.txt', 'r', encoding='utf-8') as f:
+with open('programnyelv_1feladat.txt', 'r', encoding='utf-8') as f: #2. feladat
     f.readline()
     f.readline()
     with open('programozo.txt','w',encoding='utf-8') as d:
