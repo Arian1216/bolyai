@@ -8,3 +8,4 @@ with open('auto.txt','r',encoding='utf-8') as f:
                  print('\t'.join(data),file=c)
         for counted in data[3]:
             data.count(data[3])
+            # szamold meg a markakbol mennyi auto van
