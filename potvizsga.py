@@ -26,18 +26,24 @@ print(kodolas(text,letterToChange))
 #3. feladat
 
 acc = 0
-with open('autok.csv','r',encoding='utf-8') as s: #a, feladat
+_acc = 0
+with open('autok.csv','r',encoding='utf-8') as s:
+    #a, feladat
     s.readline()
-
     cars = [lines.strip().split(';') for lines in s]
-
     #b, feladat
     for car in cars:
         if car[0] == 'Munkács' and car[1] == 'Záhony':
             acc += int(car[4])
     print(acc)
-    #acc = [_lines.strip().split(',')[4] for _lines in cars]
-    #average = sum(acc)/len(acc)
-
-    #print(average)
-
+    #c, feladat
+    for car in cars:
+        if car[4]:
+            _acc += int(car[4])
+            average = _acc/len(cars)
+    print(round(average,1))
+    #d,feladat
+    with open('budapestrol.dat','w',encoding='utf-8') as d:
+        for car in cars:
+            if car[0] == 'Budapest':
+                print(';'.join(car),file=d)
